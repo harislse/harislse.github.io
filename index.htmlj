@@ -11,7 +11,7 @@
   <body>
   	<section id="header">
     <div class="container text-center">
-    				<img src="img/profile.png" alt="Haris Eka Saputra" width="200px" class="rounded-circle img-fluid mx-auto d-block shadow mt-3">
+    				<img src="profile.png" alt="Haris Eka Saputra" width="200px" class="rounded-circle img-fluid mx-auto d-block shadow mt-3">
     				<h2 class="pt-2 fw-bold">Haris EKA SAPUTRA <i class="bi bi-patch-check-fill text-primary fs-5"></i></h2>
     				<p>Student SMAN 1 ANJATAN</p>
     </div>
